@@ -1,5 +1,5 @@
 # PlotPoint
-Android game developed using Unity3D in 2017/18. The aim is, given 5/10/20 (depending on difficult setting) points on a graph, to determine the equation of the line/curve. The user can choose from the following graph types:
+Android game developed using Unity3D in 2017/18. The aim is, given 5/10/20 (depending on difficulty setting) points on a graph, to determine the equation of the line/curve. The user can choose from the following graph types:
 * Linear
 * Quadratic
 * Cubic
